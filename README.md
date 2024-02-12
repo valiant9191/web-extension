@@ -2,7 +2,7 @@
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
 ![React](https://aleen42.github.io/badges/src/react.svg)
 
-## Made by 5 students of the Wild Code School Bootcamp as last project with 
+## Made by 
 - Evgeniya Gabrikova https://github.com/Gabriellji
 - Mancini https://github.com/mancia08
 - Valentin Kolko https://github.com/valiant9191
